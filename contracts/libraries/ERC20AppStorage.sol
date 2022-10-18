@@ -14,5 +14,4 @@ struct ERC20AppStorage {
     string  _symbol;
 
     uint8 _decimal;
-
 }
